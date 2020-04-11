@@ -1,3 +1,4 @@
+$ORIGIN example.com.
 @	SOA	dns1.example.com.	hostmaster.example.com. (
 		2001062501 ; serial
 		21600      ; refresh after 6 hours
